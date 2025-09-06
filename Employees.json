@@ -1,0 +1,97 @@
+{
+  "page": 1,
+  "page_size": 10,
+  "total": 10,
+  "data": [
+    {
+      "employee_id": "EMP-10234",
+      "full_name": "Tan Wei Jie",
+      "role": "Senior Software Engineer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 14400,
+      "net_pay": 12810
+    },
+    {
+      "employee_id": "EMP-10421",
+      "full_name": "Nur Aisyah Binti Hassan",
+      "role": "QA Engineer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 9800,
+      "net_pay": 8850
+    },
+    {
+      "employee_id": "EMP-10512",
+      "full_name": "Lim Kok Leong",
+      "role": "Frontend Developer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 11000,
+      "net_pay": 9900
+    },
+    {
+      "employee_id": "EMP-10678",
+      "full_name": "Pravin Raj",
+      "role": "Backend Developer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 11800,
+      "net_pay": 10620
+    },
+    {
+      "employee_id": "EMP-10745",
+      "full_name": "Chong Mei Ling",
+      "role": "Project Manager",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 15000,
+      "net_pay": 13500
+    },
+    {
+      "employee_id": "EMP-10823",
+      "full_name": "Ariff Bin Salleh",
+      "role": "DevOps Engineer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 12500,
+      "net_pay": 11250
+    },
+    {
+      "employee_id": "EMP-10910",
+      "full_name": "Siti Noraini",
+      "role": "UI/UX Designer",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 10200,
+      "net_pay": 9180
+    },
+    {
+      "employee_id": "EMP-11005",
+      "full_name": "James Wong",
+      "role": "Database Administrator",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 13200,
+      "net_pay": 11880
+    },
+    {
+      "employee_id": "EMP-11132",
+      "full_name": "Hui Yi Ching",
+      "role": "Business Analyst",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 11200,
+      "net_pay": 10080
+    },
+    {
+      "employee_id": "EMP-11244",
+      "full_name": "Rajesh Kumar",
+      "role": "Software Architect",
+      "currency": "MYR",
+      "pay_period": "2025-08",
+      "gross_pay": 16800,
+      "net_pay": 15120
+    }
+  ]
+}
